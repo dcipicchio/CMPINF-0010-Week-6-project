@@ -16,7 +16,8 @@ You now have Python installed and can run our code.
 4. When on GitHub, simply search dcipiccho / Cmpinf-0010-Week-6-project
 There will be an option to clone or download our code. If you wish to edit it, clone it. To run it exclusively, download it.
 5. Congratulations, now you can run our code.
-What exactly does the code do?
+
+-What exactly does the code do?
 Our code prompts the user for two basic things, their name and favorite color.
 When the code is run, you will see a statement printed on the screen.
 This statement was designed by us, using the print command. print("hello" + "nameinput" + "welcome to the color selection program.")
@@ -25,6 +26,6 @@ By using more print statements, we are able to print out our own text, and the u
 The \n at the end of the line indicates a new line.
 You may edit our code and make it better or input your own ideas and then propose a change to us.
 To do this, go the same route you did to download, and instead of pressing download, simply press on our code and propose a file change.
-Thank you and if you have any questions please do not hesitate to ask.
+-Thank you and if you have any questions please do not hesitate to ask.
 Enjoy.
-We Do not want our code misused or stolen, so please view the CoC and the License. Breaking our CoC may lead to severe punishment.
+Note: We Do not want our code misused or stolen, so please view the CoC and the License. Breaking our CoC may lead to severe punishment.
